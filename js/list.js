@@ -4,7 +4,7 @@ var list = [
     name: 'OpenWaterDataApp',
     url: 'https://water-data-web-app.appspot.com/',
     title: 'Open Water Data Portal',
-    tech: 'Node.js, React.js, Google Maps Javascript API, Google Earth Engine',
+    tech: 'Node.js, React.js, Google Maps JS API, Google Earth Engine',
     desc:
       'A geospatial visualization to Precipitation Data for watersheds in India'
   },
